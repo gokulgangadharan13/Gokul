@@ -16,10 +16,34 @@
         }
         .container {
             padding: 20px;
+            border: 2px solid black;
+            display: inline-block;
         }
         a {
             color: #fff; /* Link color */
             text-decoration: none; /* Remove underline */
+        }
+        form {
+            border: 2px solid black;
+            padding: 20px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        input[type="text"],
+        input[type="tel"],
+        input[type="email"],
+        input[type="submit"] {
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 2px solid black;
+            border-radius: 5px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        label {
+            font-size: 20px;
+            display: block;
+            margin-bottom: 5px;
         }
     </style>
 </head>
@@ -40,15 +64,15 @@
 
     <h1>Contact Me</h1>
     <form action="submit.php" method="POST">
-        <label for="name" style="font-size: 20px;">Name:</label><br>
+        <label for="name">Name:</label><br>
         <input type="text" id="name" name="name"><br>
-        <label for="organization" style="font-size: 20px;">Organization:</label><br>
+        <label for="organization">Organization:</label><br>
         <input type="text" id="organization" name="organization"><br>
-        <label for="phone" style="font-size: 20px;">Phone Number:</label><br>
+        <label for="phone">Phone Number:</label><br>
         <input type="tel" id="phone" name="phone"><br>
-        <label for="email" style="font-size: 20px;">Email:</label><br>
+        <label for="email">Email:</label><br>
         <input type="email" id="email" name="email"><br><br>
-        <input type="submit" value="Submit" style="font-size: 20px;">
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
