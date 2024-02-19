@@ -1,5 +1,5 @@
-<div style="background-image: url('C:\Users\gokul\OneDrive'); background-size: cover; padding: 20px; color: white; text-align: center;">
 # Gokul Gangadharan
+<div style="background-image: url('C:\Users\gokul\OneDrive'); background-size: cover; padding: 20px; color: white; text-align: center;">
     
 👋 Hi, I’m Gokul Gangadharan<br>
 👀 I’m interested in Tech, Gadgets, and Space science<br>
