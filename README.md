@@ -1,15 +1,14 @@
-# Gokul Gangadharan
-
 <div style="background-image: url('C:\Users\gokul\OneDrive'); background-size: cover; padding: 20px; color: white; text-align: center;">
-
-👋 Hi, I’m Gokul Gangadharan  
-👀 I’m interested in Tech, Gadgets, and Space science  
-🌱 I’m learning Data Analytics at Durham College  
-📈 I'm currently looking for Co-op opportunities in Data Analytics | BI | Supply Chain | Shipping  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/gokul-gangadharan-gg13)  
-📞 Cell: 4377997153  
-📧 Email: gokulgangadharan13@gmail.com  
-🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7  
+# Gokul Gangadharan
+    
+👋 Hi, I’m Gokul Gangadharan<br>
+👀 I’m interested in Tech, Gadgets, and Space science<br>
+🌱 I’m learning Data Analytics at Durham College<br>
+📈 I'm currently looking for Co-op opportunities in Data Analytics | BI | Supply Chain | Shipping<br>
+📫 How to reach me: <a href="https://linkedin.com/in/gokul-gangadharan-gg13">LinkedIn</a><br>
+📞 Cell: 4377997153<br>
+📧 Email: gokulgangadharan13@gmail.com<br>
+🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7
 
 <!DOCTYPE html>
 <html lang="en">
