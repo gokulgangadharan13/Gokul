@@ -16,7 +16,6 @@
         }
         .container {
             padding: 20px;
-            border: 2px solid black;
             display: inline-block;
         }
         a {
@@ -27,7 +26,6 @@
             color: blue; /* LinkedIn link color */
         }
         form {
-            border: 2px solid black;
             padding: 20px;
             display: inline-block;
             margin-top: 20px;
@@ -38,7 +36,7 @@
         input[type="submit"] {
             padding: 10px;
             margin-bottom: 10px;
-            border: 2px solid black;
+            border: 2px solid black; /* Added black border for input fields */
             border-radius: 5px;
             width: 100%;
             background-color: #333; /* Dark background color */
