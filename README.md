@@ -16,7 +16,6 @@
         }
         .container {
             padding: 20px;
-            border: 2px solid black;
             display: inline-block;
         }
         a {
