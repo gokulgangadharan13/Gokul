@@ -1,5 +1,5 @@
 # Gokul Gangadharan
-<div style="background-image: url('C:\Users\gokul\OneDrive'); background-size: cover; padding: 20px; color: white; text-align: center;">
+<div style="background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-miguel-%C3%A1-padri%C3%B1%C3%A1n-255379.jpg&fm=jpg&_gl=1*p2vc3p*_ga*MTI1ODg0NDkxMC4xNzA4MzIzODUx*_ga_8JE65Q40S6*MTcwODMyMzg1MS4xLjEuMTcwODMyMzg1My4wLjAuMA..'); background-size: cover; padding: 20px; color: white; text-align: center;">
     
 👋 Hi, I’m Gokul Gangadharan<br>
 👀 I’m interested in Tech, Gadgets, and Space science<br>
