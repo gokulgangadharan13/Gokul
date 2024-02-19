@@ -9,7 +9,7 @@
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/gokul-gangadharan-gg13)  
 📞 Cell: 4377997153  
 📧 Email: gokulgangadharan13@gmail.com  
-🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7
+🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7  
 
 <!DOCTYPE html>
 <html lang="en">
