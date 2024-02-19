@@ -11,17 +11,25 @@
 📧 Email: gokulgangadharan13@gmail.com  
 🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7
 
-<!-- Contact Form -->
-<form action="https://formspree.io/f/your_form_id" method="POST">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="Name"><br>
-  <label for="organization">Organization:</label><br>
-  <input type="text" id="organization" name="Organization"><br>
-  <label for="phone">Phone Number:</label><br>
-  <input type="tel" id="phone" name="Phone"><br>
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="Email"><br><br>
-  <input type="submit" value="Submit">
-</form>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <form action="submit.php" method="POST">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name"><br>
+        <label for="organization">Organization:</label><br>
+        <input type="text" id="organization" name="organization"><br>
+        <label for="phone">Phone Number:</label><br>
+        <input type="tel" id="phone" name="phone"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
