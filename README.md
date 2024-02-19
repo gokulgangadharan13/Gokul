@@ -57,14 +57,13 @@
             👀 I’m interested in Tech, Gadgets, and Space science<br>
             🌱 I’m learning Data Analytics at Durham College<br>
             📈 I'm currently looking for Co-op opportunities in Data Analytics | BI | Supply Chain | Shipping<br>
-            📫 How to reach me: <a href="https://linkedin.com/in/gokul-gangadharan-gg13" class="linkedin">LinkedIn</a><br>
+            📫 How to reach me: <a href="mailto:gokulgangadharan13@gmail.com">gokulgangadharan13@gmail.com</a><br>
             📞 Cell: 4377997153<br>
-            📧 Email: gokulgangadharan13@gmail.com<br>
             🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7
         </p>
     </div>
 
-    <h1>Contact Me</h1>
+    <h1>Connect with Me</h1>
     <form action="submit.php" method="POST">
         <label for="name">Name:</label><br>
         <input type="text" id="name" name="name"><br>
