@@ -12,36 +12,44 @@
             background-size: cover;
             color: white;
             text-align: center;
+            font-size: 20px;
+            font-weight: bold;
         }
         .container {
             padding: 20px;
+        }
+        a {
+            color: #fff; /* Link color */
+            text-decoration: none; /* Remove underline */
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Gokul Gangadharan</h1>
-        <p>👋 Hi, I’m Gokul Gangadharan<br>
-        👀 I’m interested in Tech, Gadgets, and Space science<br>
-        🌱 I’m learning Data Analytics at Durham College<br>
-        📈 I'm currently looking for Co-op opportunities in Data Analytics | BI | Supply Chain | Shipping<br>
-        📫 How to reach me: <a href="https://linkedin.com/in/gokul-gangadharan-gg13">LinkedIn</a><br>
-        📞 Cell: 4377997153<br>
-        📧 Email: gokulgangadharan13@gmail.com<br>
-        🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7</p>
+        <h1 style="font-size: 36px;">Gokul Gangadharan</h1>
+        <p>
+            👋 Hi, I’m Gokul Gangadharan<br>
+            👀 I’m interested in Tech, Gadgets, and Space science<br>
+            🌱 I’m learning Data Analytics at Durham College<br>
+            📈 I'm currently looking for Co-op opportunities in Data Analytics | BI | Supply Chain | Shipping<br>
+            📫 How to reach me: <a href="https://linkedin.com/in/gokul-gangadharan-gg13">LinkedIn</a><br>
+            📞 Cell: 4377997153<br>
+            📧 Email: gokulgangadharan13@gmail.com<br>
+            🏠 Address: 1973 Secretariat Place, Oshawa, ON, L1L1C7
+        </p>
     </div>
 
     <h1>Contact Me</h1>
     <form action="submit.php" method="POST">
-        <label for="name">Name:</label><br>
+        <label for="name" style="font-size: 20px;">Name:</label><br>
         <input type="text" id="name" name="name"><br>
-        <label for="organization">Organization:</label><br>
+        <label for="organization" style="font-size: 20px;">Organization:</label><br>
         <input type="text" id="organization" name="organization"><br>
-        <label for="phone">Phone Number:</label><br>
+        <label for="phone" style="font-size: 20px;">Phone Number:</label><br>
         <input type="tel" id="phone" name="phone"><br>
-        <label for="email">Email:</label><br>
+        <label for="email" style="font-size: 20px;">Email:</label><br>
         <input type="email" id="email" name="email"><br><br>
-        <input type="submit" value="Submit">
+        <input type="submit" value="Submit" style="font-size: 20px;">
     </form>
 </body>
 </html>
